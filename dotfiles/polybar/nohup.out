@@ -1,0 +1,539 @@
+polybar|notice:  Parsing config file: /home/kiwi/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 194097)
+polybar|notice:  Loading module 'launcher' of type 'custom/text'
+polybar|warn:  The config parameter `module/launcher.content` is deprecated, use `module/launcher.format` instead.
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_05_00.6.analog-stereo
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'power' of type 'custom/text'
+polybar|warn:  The config parameter `module/power.content` is deprecated, use `module/power.format` instead.
+polybar|notice:  Loaded 8 modules
+polybar|notice:  Loaded font "Manrope:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font Mono:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|warn:  Dropping unmatched character '󰆋' (U+f018b) in '󰆋  Apps'
+polybar|warn:  Dropping unmatched character '󰻠' (U+f0ee0) in '    󰻠    '
+polybar|warn:  Dropping unmatched character '󰍛' (U+f035b) in '    󰍛    '
+polybar|warn:  Dropping unmatched character '󰕾' (U+f057e) in '    󰕾    '
+polybar|warn:  Dropping unmatched character '󱑂' (U+f1442) in '    󱑂    '
+polybar|warn:  Dropping unmatched character '' (U+f011) in '  Power'
+polybar|notice:  Watched config file changed config.ini
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|notice:  Parsing config file: /home/kiwi/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 194097)
+polybar|notice:  Loading module 'launcher' of type 'custom/text'
+polybar|warn:  The config parameter `module/launcher.content` is deprecated, use `module/launcher.format` instead.
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_05_00.6.analog-stereo
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'power' of type 'custom/text'
+polybar|warn:  The config parameter `module/power.content` is deprecated, use `module/power.format` instead.
+polybar|notice:  Loaded 8 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:style=bold:size=12" (name=JetBrainsMono Nerd Font, offset=2, file=/home/kiwi/.local/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font Mono:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|notice:  Watched config file changed config.ini
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|notice:  Parsing config file: /home/kiwi/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 194097)
+polybar|notice:  Loading module 'launcher' of type 'custom/text'
+polybar|warn:  The config parameter `module/launcher.content` is deprecated, use `module/launcher.format` instead.
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_05_00.6.analog-stereo
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'power' of type 'custom/text'
+polybar|warn:  The config parameter `module/power.content` is deprecated, use `module/power.format` instead.
+polybar|notice:  Loaded 8 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:style=bold:size=12" (name=JetBrainsMono Nerd Font, offset=2, file=/home/kiwi/.local/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font Mono:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|notice:  Watched config file changed config.ini
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|notice:  Parsing config file: /home/kiwi/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 194097)
+polybar|notice:  Loading module 'launcher' of type 'custom/text'
+polybar|warn:  The config parameter `module/launcher.content` is deprecated, use `module/launcher.format` instead.
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_05_00.6.analog-stereo
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'power' of type 'custom/text'
+polybar|warn:  The config parameter `module/power.content` is deprecated, use `module/power.format` instead.
+polybar|notice:  Loaded 8 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:style=bold:size=12" (name=JetBrainsMono Nerd Font, offset=2, file=/home/kiwi/.local/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font Mono:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|notice:  Watched config file changed config.ini
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|notice:  Parsing config file: /home/kiwi/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 194097)
+polybar|notice:  Loading module 'launcher' of type 'custom/text'
+polybar|warn:  The config parameter `module/launcher.content` is deprecated, use `module/launcher.format` instead.
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_05_00.6.analog-stereo
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'power' of type 'custom/text'
+polybar|warn:  The config parameter `module/power.content` is deprecated, use `module/power.format` instead.
+polybar|notice:  Loaded 8 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:style=bold:size=12" (name=JetBrainsMono Nerd Font, offset=2, file=/home/kiwi/.local/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font Mono:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|notice:  Watched config file changed config.ini
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|notice:  Parsing config file: /home/kiwi/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 194097)
+polybar|notice:  Loading module 'launcher' of type 'custom/text'
+polybar|warn:  The config parameter `module/launcher.content` is deprecated, use `module/launcher.format` instead.
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_05_00.6.analog-stereo
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'power' of type 'custom/text'
+polybar|warn:  The config parameter `module/power.content` is deprecated, use `module/power.format` instead.
+polybar|notice:  Loaded 8 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:style=bold:size=9" (name=JetBrainsMono Nerd Font, offset=2, file=/home/kiwi/.local/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font Mono:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|notice:  Watched config file changed config.ini
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|notice:  Parsing config file: /home/kiwi/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 194097)
+polybar|notice:  Loading module 'launcher' of type 'custom/text'
+polybar|warn:  The config parameter `module/launcher.content` is deprecated, use `module/launcher.format` instead.
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_05_00.6.analog-stereo
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'power' of type 'custom/text'
+polybar|warn:  The config parameter `module/power.content` is deprecated, use `module/power.format` instead.
+polybar|notice:  Loaded 8 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:style=bold:size=9" (name=JetBrainsMono Nerd Font, offset=2, file=/home/kiwi/.local/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font Mono:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|notice:  Watched config file changed config.ini
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|notice:  Parsing config file: /home/kiwi/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 194097)
+polybar|notice:  Loading module 'launcher' of type 'custom/text'
+polybar|warn:  The config parameter `module/launcher.content` is deprecated, use `module/launcher.format` instead.
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_05_00.6.analog-stereo
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'power' of type 'custom/text'
+polybar|warn:  The config parameter `module/power.content` is deprecated, use `module/power.format` instead.
+polybar|notice:  Loaded 8 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:style=bold:size=9" (name=JetBrainsMono Nerd Font, offset=2, file=/home/kiwi/.local/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font Mono:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|notice:  Watched config file changed config.ini
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|notice:  Parsing config file: /home/kiwi/.config/polybar/config.ini
+polybar|notice:  Listening for IPC messages (PID: 194097)
+polybar|notice:  Loading module 'launcher' of type 'custom/text'
+polybar|warn:  The config parameter `module/launcher.content` is deprecated, use `module/launcher.format` instead.
+polybar|notice:  Loading module 'i3' of type 'internal/i3'
+polybar|notice:  Loading module 'title' of type 'internal/xwindow'
+polybar|notice:  Loading module 'cpu' of type 'internal/cpu'
+polybar|notice:  Loading module 'memory' of type 'internal/memory'
+polybar|notice:  Loading module 'pulseaudio' of type 'internal/pulseaudio'
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_05_00.6.analog-stereo
+polybar|notice:  Loading module 'date' of type 'internal/date'
+polybar|notice:  Loading module 'power' of type 'custom/text'
+polybar|warn:  The config parameter `module/power.content` is deprecated, use `module/power.format` instead.
+polybar|notice:  Loaded 8 modules
+polybar|notice:  Loaded font "JetBrainsMono Nerd Font:style=bold:size=9" (name=JetBrainsMono Nerd Font, offset=2, file=/home/kiwi/.local/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf)
+polybar|notice:  Loaded font "Symbols Nerd Font Mono:style=bold:size=12" (name=Noto Sans, offset=2, file=/usr/share/fonts/google-noto-vf/NotoSans[wght].ttf)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to read header from socket 0x13: errno 104 (Connection reset by peer))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to read header from socket 0x13: errno 104 (Connection reset by peer))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0x13: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3 at '/run/user/1000/i3/ipc-socket.67838': errno 2 (No such file or directory))
+polybar|error: X connection error, terminating... (what: Socket, pipe or stream error)
+polybar|notice:  Termination signal received, shutting down...
